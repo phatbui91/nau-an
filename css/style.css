@@ -300,6 +300,12 @@ button {
     background-size: 100%;
     background-repeat: no-repeat;
 }
+.h-icon{
+    height: 200px;
+}
+.h-menu{
+    height: 300px !important;
+}
 .icon_1{
     width: 100%;
     float: left;
