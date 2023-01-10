@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "bo 1",
+    "image": "./images/bo/bo-1.jpg",
+    "title": ""
+  },
+  {
+    "id": 2,
+    "name": "bo 2",
+    "image": "./images/bo/bo-2.jpg",
+    "title": ""
+  },
+  {
+    "id": 3,
+    "name": "bo 3",
+    "image": "./images/bo/bo-3.jpg",
+    "title": ""
+  },
+  {
+    "id": 4,
+    "name": "bo 4",
+    "image": "./images/bo/bo-1.jpg",
+    "title": ""
+  }
+]

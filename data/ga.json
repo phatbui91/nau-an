@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "ga 1",
+    "image": "./images/icon-1.png",
+    "title": ""
+  },
+  {
+    "id": 2,
+    "name": "ga 2",
+    "image": "./images/icon-2.png",
+    "title": ""
+  },
+  {
+    "id": 3,
+    "name": "ga 3",
+    "image": "./images/icon-3.png",
+    "title": ""
+  },
+  {
+    "id": 4,
+    "name": "ga 4",
+    "image": "./images/icon-4.png",
+    "title": ""
+  }
+]
