@@ -27,7 +27,11 @@
         width:30%; 
         padding: 20px;
         /* border-radius:50% */
+        height: 150px;
     }
+    .img-detail{
+        height: 150px;
+       }
     .ml{
         margin-left: 5%;
     }
@@ -107,7 +111,15 @@
         width:30%; 
         padding: 20px;
         /* border-radius:50% */
+        height: 100px;
     }
+.services_taital{
+    font-size: 30px ;
+}
+    .img-detail{
+        height: 150px;
+       }
+
     .ml{
         margin-left: 5%;
     }
@@ -243,6 +255,8 @@ width: 30%;
 .contact_bt { margin-top: 200px; }
 .dummy_text { font-size: 15px; }
 .services_section2 { padding-top: 30px; }
+.services_section { padding-bottom: 0px; }
+.furnitures_section{padding-bottom: 0px;}
 .icon_1 { padding-top: 30px; }
 .read_bt_main { width: 150px; }
 .lorem_text { padding-top: 0px; font-size: 15px; }
@@ -339,6 +353,8 @@ padding: 126px 40px;
 .contact_bt { margin-top: 90px; }
 .dummy_text { font-size: 15px; }
 .services_section2 { padding-top: 30px; }
+.services_section { padding-bottom: 0px; }
+.furnitures_section{padding-bottom: 0px;}
 .icon_1 { padding-top: 30px; }
 .read_bt_main { width: 150px; }
 .lorem_text { padding-top: 0px; font-size: 15px; }
@@ -461,6 +477,8 @@ ul.link li {
 .contact_bt { margin-top: 20px; }
 .dummy_text { font-size: 15px; }
 .services_section2 { padding-top: 30px; }
+.services_section { padding-bottom: 0px; }
+.furnitures_section{padding-bottom: 0px;}
 .icon_1 { padding-top: 30px; }
 .read_bt_main { width: 150px; }
 .lorem_text { padding-top: 0px; font-size: 15px; }

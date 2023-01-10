@@ -215,7 +215,7 @@ button {
 
 .layout_padding {
      padding-top: 60px;
-     padding-bottom: 0px;
+     padding-bottom: 30px;
 }
 
 .padding_0{
@@ -311,6 +311,11 @@ button {
     float: left;
     text-align: center;
 }
+
+.img-detail{
+ height: 200px;
+}
+
 .furniture_text{
     width: 100%;
     float: left;
@@ -398,6 +403,7 @@ button {
     color: #090808;
     text-align: center;
     text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .many_taital{
     width: 100%;
@@ -420,6 +426,20 @@ button {
     text-transform: uppercase;
     text-align: center;
     padding-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.furnitures_text_detail {
+    width: 100%;
+    float: left;
+    font-size: 20px;
+    color: #090808;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
 }
 .dummy_text{
     width: 100%;
@@ -451,6 +471,7 @@ button {
     padding: 10px 0px;
     border-radius: 5px;
     text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .read_bt a:hover{
     color: #ffffff;
@@ -516,6 +537,16 @@ button {
     color: #121111;
     text-transform: uppercase;
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.our_text_detail{
+    width: 100%;
+    float: left;
+    font-size: 30px;
+    color: #121111;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .ipsum_text{
     width: 100%;
@@ -589,6 +620,8 @@ a:hover {
     text-transform: uppercase;
     font-weight: bold;
     padding-top: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }
 .dololr_text{
     width: 100%;
@@ -1008,6 +1041,7 @@ textarea#comment::placeholder {
     float: left;
     background-color: #ffffff;
     height: auto;
+    position: absolute;
 }
 
 .copyright_text {
@@ -1029,6 +1063,7 @@ textarea#comment::placeholder {
     width:40%; 
     padding: 20px;
     /* border-radius:50% */
+    height: 200px;
 }
 
 .ml{
